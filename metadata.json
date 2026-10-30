@@ -1,0 +1,7 @@
+{
+  "name": "Deriv AI Trader Pro",
+  "description": "Intelligent Android-compatible trading assistant and automated signal bot for Deriv markets, featuring live API connectivity, Rise/Fall and digit prediction engines, and rigorous risk controls.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
